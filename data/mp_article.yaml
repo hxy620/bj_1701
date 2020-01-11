@@ -1,0 +1,4 @@
+mp_article001:
+  title: ceshi123456
+  content: 今天晚上吃海底捞!
+  expect: 新增文章成功
